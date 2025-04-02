@@ -7,3 +7,19 @@
 
 - [2025 Lectures PDFs](https://drive.google.com/drive/folders/0B-c7yjgipRhFY0xuRG9zVEFBdk0?resourcekey=0-w_8wyxMvpyK-8326WgFspA)
 - [الدرايف اللي فيه ايفريثينج](https://drive.google.com/drive/folders/1_E_6b8dcMeR-QfAbWr4cm-8B8d6I99ms)
+
+---
+
+# Step by step
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>PDF Materials</th>
+    <th>Video Materials</th>
+  </tr>
+  <tr>
+    <td>_____</td>
+    <td>_____</td>
+    <td>_____</td>
+  </tr>
+</table>

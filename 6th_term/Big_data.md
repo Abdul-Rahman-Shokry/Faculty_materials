@@ -28,3 +28,19 @@
 - https://youtu.be/LIEpPQc1qTI	10
 - https://youtu.be/34wZHOZyHkM	11
 - https://youtu.be/IE2A2tcOulo	12
+
+---
+
+# Step by step
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>PDF Materials</th>
+    <th>Video Materials</th>
+  </tr>
+  <tr>
+    <td>_____</td>
+    <td>_____</td>
+    <td>_____</td>
+  </tr>
+</table>
