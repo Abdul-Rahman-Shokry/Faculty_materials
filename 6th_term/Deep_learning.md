@@ -35,4 +35,18 @@
         </ul>
     </td>
   </tr>
+    <tr>
+    <td>Backpropagation</td>
+    <td></td>
+    <td>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=7lIF45KvGy4&list=PLcAf0BNJq_vdJM4MJMJQy4F2jc_-GKUdi&index=5">video</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>__</td>
+    <td>__</td>
+    <td>__</td>
+  </tr>
 </table>
