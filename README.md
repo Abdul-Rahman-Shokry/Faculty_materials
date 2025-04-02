@@ -1,3 +1,4 @@
+# Daily Updated 🔁🔁
 ![Quote](./img/Quote.png)
 
 ---
