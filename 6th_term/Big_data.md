@@ -9,7 +9,20 @@
 
 # شرح المحاضرات
 
-- https://www.youtube.com/playlist?list=PLBr-TVj3sd0BoM-N46S9-fNOpZQvf-FTj
+- [هندسة المنصورة](https://www.youtube.com/playlist?list=PLBr-TVj3sd0BoM-N46S9-fNOpZQvf-FTj)
+- Lecture 5:
+  - [video 1](https://www.youtube.com/watch?v=_1D35bN95Go)
+  - [video 2](https://www.youtube.com/watch?v=4ki077xGXj4)
+  - [video 3](https://www.youtube.com/watch?v=PV_i0xXisUs)
+  - [video 4](https://www.youtube.com/watch?v=ZuSYMpL55lA)
+  - [video 5](https://www.youtube.com/watch?v=FhqeehJAINg)
+
+---
+
+## Lectures
+
+
+---
 
 ## Labs
 
