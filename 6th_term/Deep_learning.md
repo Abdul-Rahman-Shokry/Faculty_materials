@@ -46,6 +46,11 @@
     </td>
   </tr>
   <tr>
+    <td>Lecture 06</td>
+    <td><a href="https://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L3.pdf">slides (MIT)</a></td>
+    <td><a href="https://www.youtube.com/watch?v=oGpzWAlP5p0&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=3">CNN (MIT)</a></td>
+  </tr>
+  <tr>
     <td>Lecture 07</td>
     <td><a href="https://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture9.pdf">slides (stanford)</a></td>
     <td><a href="https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=9">CNN Architectures (stanford)</a></td>
