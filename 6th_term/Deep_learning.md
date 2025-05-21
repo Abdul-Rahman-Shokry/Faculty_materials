@@ -46,8 +46,28 @@
     </td>
   </tr>
   <tr>
-    <td>__</td>
-    <td>__</td>
-    <td>__</td>
+    <td>Lecture 07</td>
+    <td><a href="https://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture9.pdf">slides (stanford)</a></td>
+    <td><a href="https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=9">CNN Architectures (stanford)</a></td>
+  </tr>
+  <tr>
+    <td>Lecture 08</td>
+    <td><a href="https://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf">slides (stanford)</a></td>
+    <td><a href="https://www.youtube.com/watch?v=nDPWywWRIRo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=11">Detection and Segmentation (stanford)</a></td>
+  </tr>
+  <tr>
+    <td>Lecture 09</td>
+    <td><a href="https://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf">slides (stanford)</a></td>
+    <td><a href="https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=10">RNN (stanford)</a></td>
+  </tr>
+  <tr>
+    <td>Lecture 10</td>
+    <td>____</td>
+    <td>_____</td>
+  </tr>
+  <tr>
+    <td>Lecture 11</td>
+    <td><a href="https://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture13.pdf">slides (stanford)</a></td>
+    <td><a href="https://www.youtube.com/watch?v=5WoItGTWV54&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=13">GANs (stanford)</a></td>
   </tr>
 </table>
